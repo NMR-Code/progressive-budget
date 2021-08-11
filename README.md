@@ -1,5 +1,6 @@
 # Progressive Budget App
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![npm](https://img.shields.io/npm/v/express?color=purple&label=express&logo=NPM&style=flat)
 ![npm](https://img.shields.io/npm/v/mongoose?color=red&label=mongoose&logo=NPM&style=flat)
 ![npm](https://img.shields.io/npm/v/compression?color=yellow&label=compression&logo=NPM&style=flat)
