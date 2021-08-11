@@ -67,4 +67,8 @@ THEN that will be shown on the page, and added to their transaction history when
 
 * In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
 
+<<<<<<< HEAD
 * Use [Google](https://www.google.com) or another search engine to research this topic.
+=======
+* Use [Google](https://www.google.com) or another search engine to research this topic.
+>>>>>>> 79c80dfeacbb3636e27f023983e9760fe1bcd490
